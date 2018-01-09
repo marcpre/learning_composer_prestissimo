@@ -4,4 +4,4 @@
 
 `composer global require hirak/prestissimo`
 
-(Plugin Page)[https://github.com/hirak/prestissimo]
+[Plugin Page](https://github.com/hirak/prestissimo)
